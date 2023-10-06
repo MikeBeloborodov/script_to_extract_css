@@ -1,0 +1,7 @@
+There is a bug - if class if not ending with ""> it doesn't pick up this class
+for example 
+  <img
+    class="interactive-rating-component__icon"
+    src="images/icon-star.svg"
+    alt="Icon of a star."
+  />
